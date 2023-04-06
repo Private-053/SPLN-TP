@@ -1,0 +1,34 @@
+Fox:
+Link:https://www.foxtv.pt/programacao/foxtv/YYYYMMDD#dayYYYYMMDD
+                                     /foxcomedy
+                                     /foxlife
+                                     /fox-movies
+                                     /fox-crime
+                                     /mundo-fox
+Scrape com BeatifuLSoup:
+    Conteudo: class=mainContainer
+    Programação: data-acilia-index=YYYYMMDD
+    Hora/Nome: class="row accordionToggle acilia-click-access"
+
+Hollywood:
+Link:https://canalhollywood.pt/wp-admin/admin-ajax.php?action=get_movies_range&start=YYYY-MM-DD&end=YYYY-MM-DD
+Retorna JSON, só temos de dar parse
+
+AXN:
+Link:https://www.axn.pt/wp-admin/admin-ajax.php
+Body: {action=get_tv_guide_items, day=DD, month=MM, year=YYYY, channel=AXN/AXN WHITE/AXN MOVIES}
+Retorna HTML(estranho, provavelmente escaped), BeatifulSoup para o parse
+
+TVCine:
+Link: https://api-tvcine.com/content/emissoes/range?dateStart=YYYY-MM-DD%2000:00&dateEnd=YYYY-MM-DD%2023:59&timezone=Europe/Lisbon
+Retorna JSON, só temos de dar parse
+
+AMC:
+Link:https://www.amctv.pt/programacao
+Scrape com BeatifuLSoup:
+    Schedules: class=ren-schedule__items
+    Dia: class=ren-schedule-items__day
+    Programa: class=ren-schedule-item
+    Hora: class=ren-schedule-item__time
+    Nome: class=ren-schedule-item__series-name
+    Descricao: class=ren-schedule-item__descr
