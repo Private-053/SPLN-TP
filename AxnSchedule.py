@@ -1,28 +1,45 @@
 import requests
 from bs4 import BeautifulSoup
+import json
 
 
 class AxnSchedule():
     def __init__(self):
         self.schedule={}
+        self.channels=["AXN","AXN WHITE","AXN MOVIES"]
 
-    def get_schedule(self,data,channel):
-        if(self.schedule.get(data) is None):
+    def get_channel_names(self):
+        return self.channels
+
+    def get_all_schedules(self,date):
+        schedule={}
+        for i in self.channels:
+            schedule[i]=self.get_schedule(date,i)
+        return schedule
+
+    def get_schedule(self,date,channel):
+        if(self.schedule.get(date) is None or self.schedule.get(date).get(channel) is None):
             programacao=[]
             link=f"https://www.axn.pt/wp-admin/admin-ajax.php"
-            dia=data.split("-")[2]
-            mes=data.split("-")[1]
-            ano=data.split("-")[0]
+            dia=date.split("-")[2]
+            mes=date.split("-")[1]
+            ano=date.split("-")[0]
             payload = {"action":"get_tv_guide_items", "day":dia, "month":mes, "year":ano, "channel":channel}
             session = requests.Session()
             r = session.post(link, data=payload)
-            html=r.json()["html"]
-            soup = BeautifulSoup(html, 'html.parser')
-
-            for i in soup.find_all("li",{"class":"axn-guide-list-item"}):
-                hora=i.find("span",{"class":"hour"}).text
-                nome=i.find("div",{"class":"content"}).find("h2",{"class":"title"}).text
-                new_entry = {"programa":nome,"hora":hora,"dia":data}
-                programacao.append(new_entry)
-            self.schedule[data]=programacao
-        return self.schedule[data]
+            try:
+                html=r.json()["html"]
+                soup = BeautifulSoup(html, 'html.parser')
+                for i in soup.find_all("li",{"class":"axn-guide-list-item"}):
+                    hora=i.find("span",{"class":"hour"}).text
+                    nome=i.find("div",{"class":"content"}).find("h2",{"class":"title"}).text
+                    new_entry = {"programa":nome,"hora":hora,"dia":date}
+                    programacao.append(new_entry)
+                if self.schedule.get(date) is None:
+                    self.schedule[date]={}
+                self.schedule[date][channel]=programacao
+            except:
+                print("Error getting schedule for channel "+channel+" on date "+date)
+                return []
+            
+        return self.schedule[date][channel]

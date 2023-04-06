@@ -1,6 +1,5 @@
 import requests
 
-
 class AmcSchedule():
     def __init__(self):
         self.schedule={}
