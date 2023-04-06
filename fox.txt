@@ -1,77 +1,236 @@
-Um Dia de Cada Vez+12 06.20
-SEAL Team+12 06.40
-SEAL Team+12 07.25
-Hawai Força Especial+12 08.05
-Hawai Força Especial+12 08.50
-Hawai Força Especial+12 09.35
-Hawai Força Especial+12 10.15
-CSI: Miami+12 11.05
-CSI: Miami+12 11.50
-CSI: Miami+12 12.40
-CSI: Miami+12 13.25
-CSI+12 14.10
-CSI+12 15.00
-Hawai Força Especial+12 15.45
-Hawai Força Especial+12 16.35
-CSI: Miami+12 17.15
-CSI: Miami+12 18.00
-Investigação Criminal: Los Angeles+12 18.50
-Investigação Criminal: Los Angeles+12 19.40
-Hawai Força Especial+12 20.30
-Hawai Força Especial+12 21.20
-FBI+12 22.15
-FBI: International+12 23.00
-Fúria de Titãs+12 23.55
-CSI: Miami+12 01.30
-CSI: Miami+12 02.15
-Investigação Criminal: Los Angeles+12 03.00
-Investigação Criminal: Los Angeles+12 03.40
-CSI+12 04.20
-CSI+12 05.05
-CSI+12 05.45
-Um Dia de Cada Vez+12 06.25
-SEAL Team+12 06.55
-SEAL Team+12 07.40
-Hawai Força Especial+12 08.20
-Hawai Força Especial+12 09.05
-Hawai Força Especial+12 09.45
-Hawai Força Especial+12 10.30
-CSI: Miami+12 11.15
-CSI: Miami+12 12.00
-CSI: Miami+12 12.50
-CSI: Miami+12 13.35
-CSI+12 14.20
-CSI+12 15.05
-Hawai Força Especial+12 15.50
-Hawai Força Especial+12 16.35
-CSI: Miami+12 17.20
-CSI: Miami+12 18.05
-Investigação Criminal: Los Angeles+12 18.55
-Investigação Criminal: Los Angeles+12 19.45
-Hawai Força Especial+12 20.35
-Hawai Força Especial+12 21.30
-Mundo Jurássico+12 22.15
-Taken - A Vingança+12 00.30
-CSI: Miami+12 02.05
-CSI: Miami+12 02.50
-Investigação Criminal: Los Angeles+12 03.30
-Investigação Criminal: Los Angeles+12 04.10
-CSI+12 04.55
-CSI+12 05.35
-Um Dia de Cada Vez+12 06.15
-Chicago P.D.+12 06.40
-Chicago P.D.+12 07.25
-Chicago P.D.+12 08.05
-Chicago P.D.+12 08.50
-Gru - O Maldisposto 2+7 09.30
-Gru - O Maldisposto 3+7 11.05
-Confronto de Titãs+12 12.35
-O Rei Escorpião+12 14.15
-Taken 3+12 15.45
-Mundo Jurássico+12 17.40
-Aquaman+12 19.45
-Jack Reacher+12 22.15
-Jack Reacher: Nunca Voltes Atrás+12 00.45
-O Atirador+16 02.40
-CSI+12 04.40
-CSI+12 05.20
+Uma Família Muito Moderna 06.05 20230406
+Foi Assim que Aconteceu 06.25 20230406
+Foi Assim que Aconteceu 06.45 20230406
+Os Simpsons 07.10 20230406
+Os Simpsons 07.30 20230406
+Os Simpsons 07.50 20230406
+Os Simpsons 08.15 20230406
+Os Simpsons 08.35 20230406
+American Dad 08.55 20230406
+American Dad 09.15 20230406
+Family Guy 09.35 20230406
+Os Simpsons 09.55 20230406
+Os Simpsons 10.20 20230406
+Pai de Surpresa 10.45 20230406
+Pai de Surpresa 11.05 20230406
+A Teoria do Big Bang 11.30 20230406
+Family Guy 11.50 20230406
+Friends 12.10 20230406
+Friends 12.35 20230406
+American Dad 13.00 20230406
+American Dad 13.25 20230406
+Family Guy 13.50 20230406
+Family Guy 14.10 20230406
+Os Simpsons 14.30 20230406
+Os Simpsons 14.55 20230406
+Os Simpsons 15.15 20230406
+Os Simpsons 15.40 20230406
+American Dad 16.05 20230406
+American Dad 16.30 20230406
+Family Guy 16.55 20230406
+Family Guy 17.15 20230406
+Family Guy 17.35 20230406
+Os Simpsons 18.00 20230406
+Os Simpsons 18.25 20230406
+Os Simpsons 18.45 20230406
+Foi Assim que Aconteceu 19.05 20230406
+Foi Assim que Aconteceu 19.30 20230406
+A Teoria do Big Bang 19.55 20230406
+A Teoria do Big Bang 20.10 20230406
+Regras do Jogo 20.35 20230406
+Regras do Jogo 21.00 20230406
+Pai de Surpresa 21.25 20230406
+Pai de Surpresa 21.50 20230406
+Two and a Half Men 22.10 20230406
+Two and a Half Men 22.35 20230406
+Friends 23.00 20230406
+Friends 23.20 20230406
+Two Broke Girls 23.45 20230406
+Two Broke Girls 00.10 20230407
+Two Broke Girls 00.35 20230407
+Two Broke Girls 00.55 20230407
+Abbott Elementary 01.15 20230407
+Abbott Elementary 01.40 20230407
+Family Guy 02.05 20230407
+Family Guy 02.25 20230407
+Family Guy 02.45 20230407
+Family Guy 03.05 20230407
+Family Guy 03.25 20230407
+Family Guy 03.45 20230407
+Family Guy 04.05 20230407
+Family Guy 04.25 20230407
+Family Guy 04.45 20230407
+Family Guy 05.05 20230407
+Uma Família Muito Moderna 05.25 20230407
+Uma Família Muito Moderna 05.45 20230407
+Uma Família Muito Moderna 06.05 20230407
+Foi Assim que Aconteceu 06.30 20230407
+Foi Assim que Aconteceu 06.50 20230407
+Os Simpsons 07.10 20230407
+Os Simpsons 07.30 20230407
+Os Simpsons 07.55 20230407
+Os Simpsons 08.15 20230407
+Os Simpsons 08.35 20230407
+American Dad 08.55 20230407
+American Dad 09.15 20230407
+Family Guy 09.40 20230407
+Os Simpsons 10.00 20230407
+Os Simpsons 10.20 20230407
+Pai de Surpresa 10.45 20230407
+American Dad 11.05 20230407
+Family Guy 11.30 20230407
+Family Guy 11.55 20230407
+Os Simpsons 12.15 20230407
+Os Simpsons 12.40 20230407
+American Dad 13.00 20230407
+American Dad 13.25 20230407
+Family Guy 13.50 20230407
+Family Guy 14.10 20230407
+Os Simpsons 14.35 20230407
+Os Simpsons 15.00 20230407
+Os Simpsons 15.20 20230407
+Os Simpsons 15.45 20230407
+American Dad 16.10 20230407
+American Dad 16.30 20230407
+Family Guy 16.55 20230407
+Family Guy 17.15 20230407
+Family Guy 17.35 20230407
+Os Simpsons 18.00 20230407
+Os Simpsons 18.25 20230407
+Os Simpsons 18.45 20230407
+Foi Assim que Aconteceu 19.10 20230407
+Foi Assim que Aconteceu 19.30 20230407
+A Teoria do Big Bang 19.55 20230407
+A Teoria do Big Bang 20.15 20230407
+Abbott Elementary 20.40 20230407
+Abbott Elementary 21.05 20230407
+Pai de Surpresa 21.25 20230407
+Pai de Surpresa 21.50 20230407
+Two and a Half Men 22.10 20230407
+Two and a Half Men 22.35 20230407
+Friends 23.00 20230407
+Friends 23.25 20230407
+Get Smart - Olho Vivo 23.50 20230407
+Má Vizinhança 01.40 20230408
+Two Broke Girls 03.10 20230408
+Two Broke Girls 03.30 20230408
+Two Broke Girls 03.50 20230408
+Two Broke Girls 04.10 20230408
+Regras do Jogo 04.30 20230408
+Regras do Jogo 04.50 20230408
+Uma Família Muito Moderna 05.10 20230408
+Uma Família Muito Moderna 05.30 20230408
+American Dad 05.50 20230408
+Os Simpsons 06.10 20230408
+Os Simpsons 06.35 20230408
+Os Simpsons 06.55 20230408
+Os Simpsons 07.20 20230408
+Os Simpsons 07.40 20230408
+Os Simpsons 08.00 20230408
+Os Simpsons 08.25 20230408
+Os Simpsons 08.45 20230408
+Os Simpsons 09.05 20230408
+Foi Assim que Aconteceu 09.30 20230408
+Foi Assim que Aconteceu 09.50 20230408
+Foi Assim que Aconteceu 10.15 20230408
+Foi Assim que Aconteceu 10.35 20230408
+Foi Assim que Aconteceu 11.00 20230408
+Pai de Surpresa 11.20 20230408
+Pai de Surpresa 11.45 20230408
+Pai de Surpresa 12.10 20230408
+Pai de Surpresa 12.30 20230408
+Pai de Surpresa 12.50 20230408
+Pai de Surpresa 13.15 20230408
+Pai de Surpresa 13.40 20230408
+Pai de Surpresa 14.00 20230408
+Pai de Surpresa 14.20 20230408
+Pai de Surpresa 14.45 20230408
+Friends 15.10 20230408
+Friends 15.35 20230408
+Friends 16.00 20230408
+Friends 16.25 20230408
+Friends 16.50 20230408
+Friends 17.15 20230408
+Friends 17.35 20230408
+Friends 18.00 20230408
+Friends 18.30 20230408
+Friends 18.55 20230408
+A Teoria do Big Bang 19.20 20230408
+A Teoria do Big Bang 19.45 20230408
+A Teoria do Big Bang 20.00 20230408
+A Teoria do Big Bang 20.25 20230408
+A Teoria do Big Bang 20.50 20230408
+A Teoria do Big Bang 21.05 20230408
+A Teoria do Big Bang 21.30 20230408
+A Teoria do Big Bang 21.50 20230408
+A Teoria do Big Bang 22.10 20230408
+A Teoria do Big Bang 22.35 20230408
+Spy 23.00 20230408
+Get Smart - Olho Vivo 01.05 20230409
+Os Simpsons 02.55 20230409
+Os Simpsons 03.15 20230409
+Os Simpsons 03.35 20230409
+Os Simpsons 03.55 20230409
+Os Simpsons 04.15 20230409
+Os Simpsons 04.35 20230409
+Os Simpsons 04.55 20230409
+Os Simpsons 05.15 20230409
+Os Simpsons 05.40 20230409
+American Dad 06.00 20230409
+American Dad 06.20 20230409
+Os Simpsons 06.40 20230409
+Os Simpsons 07.00 20230409
+Os Simpsons 07.20 20230409
+Os Simpsons 07.40 20230409
+Os Simpsons 08.05 20230409
+Os Simpsons 08.25 20230409
+Os Simpsons 08.45 20230409
+Os Simpsons 09.05 20230409
+Os Simpsons 09.25 20230409
+Os Simpsons 09.50 20230409
+Os Simpsons 10.10 20230409
+Os Simpsons 10.30 20230409
+Os Simpsons 10.55 20230409
+Os Simpsons 11.15 20230409
+Os Simpsons 11.35 20230409
+Os Simpsons 12.00 20230409
+Os Simpsons 12.25 20230409
+Os Simpsons 12.45 20230409
+Os Simpsons 13.05 20230409
+Os Simpsons 13.30 20230409
+Os Simpsons 13.55 20230409
+Os Simpsons 14.20 20230409
+Os Simpsons 14.40 20230409
+Os Simpsons 15.05 20230409
+Os Simpsons 15.25 20230409
+Os Simpsons 15.50 20230409
+Os Simpsons 16.10 20230409
+Os Simpsons 16.35 20230409
+Os Simpsons 17.00 20230409
+Os Simpsons 17.25 20230409
+Os Simpsons 17.45 20230409
+Os Simpsons 18.10 20230409
+Os Simpsons 18.30 20230409
+Os Simpsons 18.55 20230409
+Two and a Half Men 19.15 20230409
+Two and a Half Men 19.40 20230409
+Two and a Half Men 20.05 20230409
+Two and a Half Men 20.30 20230409
+Two and a Half Men 20.55 20230409
+Two and a Half Men 21.15 20230409
+Two and a Half Men 21.35 20230409
+Two and a Half Men 22.00 20230409
+Two and a Half Men 22.20 20230409
+Two and a Half Men 22.45 20230409
+Tudo Bons Meninos 23.05 20230409
+O Verão da Minha Vida 00.45 20230410
+Friends 02.20 20230410
+Friends 02.45 20230410
+Friends 03.05 20230410
+Friends 03.25 20230410
+Friends 03.50 20230410
+Friends 04.10 20230410
+Friends 04.30 20230410
+Friends 04.55 20230410
+Friends 05.15 20230410
+Friends 05.40 20230410
