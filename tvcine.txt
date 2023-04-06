@@ -1,506 +1,55 @@
-La Brea 21.25 2023-04-06
-La Brea 5.30 2023-04-10
-La Brea 4.30 2023-04-06
-La Brea 19.10 2023-04-06
-La Brea 4.45 2023-04-10
-La Brea 18.55 2023-04-10
-La Brea 5.20 2023-04-11
-La Brea 18.55 2023-04-11
-La Brea 5.30 2023-04-12
-La Brea 19.05 2023-04-12
-La Brea 5.20 2023-04-13
-La Brea 19.05 2023-04-13
-Fbi: Most Wanted 6.00 2023-04-06
-Fbi: Most Wanted 21.25 2023-04-12
-Fbi: Most Wanted 6.05 2023-04-13
-Fbi: Most Wanted 5.15 2023-04-06
-Fbi: Most Wanted 22.10 2023-04-12
-Fbi: Most Wanted 6.50 2023-04-13
-The Equalizer 22.10 2023-04-13
-The Equalizer 22.10 2023-04-06
-The Equalizer 6.15 2023-04-10
-The Equalizer 21.25 2023-04-13
-Walker: Independence 21.25 2023-04-10
-Walker: Independence 6.05 2023-04-11
-Walker: Independence 3.00 2023-04-13
-Walker: Independence 22.10 2023-04-10
-Walker: Independence 6.50 2023-04-11
-Seal Team 17.15 2023-04-10
-Seal Team 3.40 2023-04-11
-Seal Team 18.05 2023-04-10
-Seal Team 4.30 2023-04-11
-Seal Team 17.25 2023-04-11
-Seal Team 4.00 2023-04-12
-Seal Team 18.10 2023-04-11
-Seal Team 4.45 2023-04-12
-Seal Team 17.35 2023-04-12
-Seal Team 3.45 2023-04-13
-Seal Team 18.20 2023-04-12
-Seal Team 4.30 2023-04-13
-Seal Team 2.55 2023-04-06
-Seal Team 17.25 2023-04-13
-Seal Team 3.45 2023-04-06
-Seal Team 18.15 2023-04-13
-Seal Team 17.30 2023-04-06
-Seal Team 3.05 2023-04-10
-Seal Team 18.20 2023-04-06
-Seal Team 3.55 2023-04-10
-Law & Order: Organized Crime 21.25 2023-04-11
-Law & Order: Organized Crime 6.15 2023-04-12
-Law & Order: Organized Crime 22.10 2023-04-11
-Law & Order: Organized Crime 7.00 2023-04-12
-Sherlock Holmes: Jogo de Sombras 11.15 2023-04-11
-A Dívida 16.10 2023-04-06
-The Trick 22.55 2023-04-06
-Plano A 14.05 2023-04-07
-Transporter: Potência Máxima 12.30 2023-04-07
 Bom Ladrão 15.55 2023-04-08
 A Casa Do Mal 20.10 2023-04-08
-Último Momento De Clareza 21.45 2023-04-09
-Em Defesa da Terra (VP) 10.50 2023-04-09
-O Rapaz Atrás da Porta 15.45 2023-04-10
-Bull 0.45 2023-04-11
-Thriller, Assassino Na Noite 22.55 2023-04-11
-Crypto 19.40 2023-04-11
-Perdida 12.20 2023-04-12
-Invasores 15.25 2023-04-13
-Ghost Stories - Noites De Terror 22.55 2023-04-13
-Era Uma Vez Em Londres 8.55 2023-04-07
-Umma 8.20 2023-04-06
-A História Da Aia 7.10 2023-04-07
 Homem-Aranha: No Universo Aranha (VO) 8.30 2023-04-08
-Homem-Aranha: Regresso A Casa 8.35 2023-04-09
 Venom (2018) 1.40 2023-04-08
 Morbius 6.50 2023-04-08
 A Lei de Murphy 5.10 2023-04-08
-Palpitações 6.45 2023-04-06
-O Passado Não Perdoa 9.45 2023-04-10
-A Face da Morte 9.45 2023-04-06
-Em Busca dos Últimos Grandes Heróis de Ação 12.15 2023-04-09
-Resident Evil: Ressurreição 14.10 2023-04-10
-Códigos de Guerra (Director´s Cut) 1.45 2023-04-09
 Resident Evil 3.30 2023-04-08
-Pulp Fiction 0.25 2023-04-06
-Pulp Fiction 4.40 2023-04-07
-Haverá Sangue 11.25 2023-04-06
-Haverá Sangue 2.05 2023-04-07
-O Homem da Máscara de Ferro 14.00 2023-04-06
-O Homem da Máscara de Ferro 6.20 2023-04-09
-Caça Ao Homem 19.55 2023-04-06
-Caça Ao Homem 2.10 2023-04-11
-Delta de Vénus 0.25 2023-04-07
-Código De Silêncio 10.50 2023-04-07
-Código De Silêncio 7.35 2023-04-11
-Imperdoável 16.00 2023-04-07
-Profile 18.10 2023-04-07
-Profile 2.10 2023-04-12
-Jogo De Traições 20.00 2023-04-07
-Liga da Justiça 21.45 2023-04-07
-Striptease 23.45 2023-04-07
 Dick e Jane - Ladrões sem Jeito 10.25 2023-04-08
-Dick e Jane - Ladrões sem Jeito 7.45 2023-04-12
 Gran Torino 11.55 2023-04-08
-Gran Torino 4.20 2023-04-09
 Star Trek 13.50 2023-04-08
-Star Trek 1.00 2023-04-10
 Watchmen - Os Guardiões 17.30 2023-04-08
-Watchmen - Os Guardiões 7.00 2023-04-10
 Liga da Justiça de Zack Snyder 21.45 2023-04-08
-A Escuridão 14.40 2023-04-09
-A Escuridão 9.15 2023-04-12
-A Invasão dos Violadores 16.15 2023-04-09
-A Invasão dos Violadores 9.45 2023-04-13
-Rounders - A Vida é um Jogo 18.15 2023-04-09
-Rounders - A Vida é um Jogo 9.15 2023-04-11
-Espanta Espíritos 20.15 2023-04-09
-Espanta Espíritos 10.50 2023-04-12
-Corpo de Delito 23.20 2023-04-09
-Mystic River 11.50 2023-04-10
-Paradise Cove 19.40 2023-04-10
-A Promessa de Uma Vida 22.55 2023-04-10
-Os Sete Magníficos 13.20 2023-04-11
-O Homem do Coração de Ferro 15.25 2023-04-11
-Mata Hari 0.20 2023-04-12
-Procurada 13.50 2023-04-12
-Sherlock Holmes 15.25 2023-04-12
-Sherlock Holmes 7.35 2023-04-13
-Os Últimos Sobreviventes 19.50 2023-04-12
-Seance 22.55 2023-04-12
-De Olhos Bem Fechados 0.25 2023-04-13
-Ted Bundy: O Monstro Americano 11.40 2023-04-13
-Thelma e Louise 13.15 2023-04-13
-Resident Evil : Apocalipse 19.50 2023-04-13
-Biography: KISStory 17.10 2023-04-10
-Biography: KISStory 18.30 2023-04-11
-The Movies 17.35 2023-04-06
 The Movies 12.00 2023-04-08
-Women Who Rock 17.30 2023-04-12
-Women Who Rock 18.25 2023-04-12
-Women Who Rock 20.05 2023-04-13
-Women Who Rock 21.05 2023-04-13
-Nas Tuas Mãos 15.50 2023-04-12
-Drive My Car 22.00 2023-04-06
-Revolta 23.20 2023-04-07
 O Som Que Desce na Terra 13.25 2023-04-08
 Hannes 20.30 2023-04-08
-Fátima 22.00 2023-04-09
-A Conferência 20.10 2023-04-10
 Ouistreham - Entre Dois Mundos 8.45 2023-04-08
-Ouistreham - Entre Dois Mundos 16.35 2023-04-13
-O Rei do Riso 18.05 2023-04-09
-O Rei do Riso 5.05 2023-04-11
 Tony (2019) 16.40 2023-04-08
-Tony (2019) 7.40 2023-04-10
-Lady Boss: A História De Jackie Collins 15.00 2023-04-13
-Maria Papoila 11.45 2023-04-11
-Maria Papoila 8.20 2023-04-13
-Mulher Oceano 20.20 2023-04-09
-Mulher Oceano 9.30 2023-04-12
-Crime Delicado 5.15 2023-04-06
-A Gruta Dos Sonhos Perdidos 13.35 2023-04-11
-A Gruta Dos Sonhos Perdidos 6.25 2023-04-12
-Um Homem Do Ribatejo 2.05 2023-04-06
-Tall Poppy 3.45 2023-04-06
-Objectos de Luz 0.55 2023-04-06
-McCurry: O Desígnio da Cor 6.40 2023-04-06
-Le Rêve et la Radio 11.10 2023-04-06
-Apresentação 10.05 2023-04-06
-John & Yoko: Above Us Only Sky 15.10 2023-04-09
-John & Yoko: Above Us Only Sky 2.10 2023-04-11
-Cantiga da Rua 8.15 2023-04-06
-The Beatles and India 9.30 2023-04-07
-Terminal Norte 12.50 2023-04-09
-Taxi (2015) 11.10 2023-04-07
-Mariupol: The People´s Story 2.10 2023-04-07
-A História da Minha Mulher 16.45 2023-04-07
-A História da Minha Mulher 1.35 2023-04-13
-O Alvorecer Das Felinas 3.45 2023-04-07
-Vinte e Nove Irmãos 7.55 2023-04-07
-Dimensão Desconhecida: A História de Atividade Paranormal 6.20 2023-04-07
 Silêncio - Vozes de Lisboa 0.50 2023-04-08
 Descerrando Os Punhos 2.20 2023-04-08
 Changing The Game 3.55 2023-04-08
 Um Herói 6.40 2023-04-08
-O Êxtase Da Rosa Negra 5.10 2023-04-07
-O Tarzan do 5º Esquerdo 13.25 2023-04-06
-O Tarzan do 5º Esquerdo 1.15 2023-04-09
-Margot 14.50 2023-04-06
-Margot 2.40 2023-04-09
-Quant 16.05 2023-04-06
-Quant 3.55 2023-04-09
-Dupla Traição 19.00 2023-04-06
 Dupla Traição 10.30 2023-04-08
-Cesária Évora 20.25 2023-04-06
-Cesária Évora 5.25 2023-04-09
-À Sombra Das Jovens Raparigas Húmidas 0.55 2023-04-07
 À Sombra Das Jovens Raparigas Húmidas 5.25 2023-04-08
-Pirataria Informática 3.40 2023-04-07
-Sangue Toureiro 12.45 2023-04-07
-Sangue Toureiro 2.15 2023-04-10
-Ruy Belo, Era Uma Vez 14.15 2023-04-07
-Ruy Belo, Era Uma Vez 3.45 2023-04-10
-Modigliani - O Pintor Maldito 15.10 2023-04-07
-Modigliani - O Pintor Maldito 4.40 2023-04-10
-West Side Story - Amor Sem Barreiras 19.30 2023-04-07
-West Side Story - Amor Sem Barreiras 9.00 2023-04-09
-Dreaming Walls: Chelsea Hotel Por Dentro 22.00 2023-04-07
-Dreaming Walls: Chelsea Hotel Por Dentro 11.30 2023-04-09
 Os Grandes Criadores 15.15 2023-04-08
-Os Grandes Criadores 6.15 2023-04-10
 Alcarràs 18.30 2023-04-08
-Alcarràs 7.00 2023-04-09
 Agarrem essa Loira 22.00 2023-04-08
-Agarrem essa Loira 9.30 2023-04-10
 Mustang 23.40 2023-04-08
-Mustang 10.10 2023-04-11
-Nada Pode Ficar 13.30 2023-04-09
-Nada Pode Ficar 0.30 2023-04-11
-Perante o Teu Rosto 16.40 2023-04-09
-Perante o Teu Rosto 3.40 2023-04-11
-Assassinos (1946) 0.35 2023-04-10
-Assassinos (1946) 11.10 2023-04-10
-Uma Hora De Amor 12.55 2023-04-10
-Uma Hora De Amor 1.00 2023-04-12
-In The Cold Dark Night 14.20 2023-04-10
-In The Cold Dark Night 2.25 2023-04-12
-As Filhas da Revolução Sexual 15.50 2023-04-10
-As Filhas da Revolução Sexual 8.50 2023-04-11
-Montado, O Bosque do Lince Ibérico 18.35 2023-04-10
-Montado, O Bosque do Lince Ibérico 7.55 2023-04-12
-Anti-Porno 22.00 2023-04-10
-Anti-Porno 3.55 2023-04-12
-Os Amantes Molhados 23.15 2023-04-10
-Os Amantes Molhados 5.10 2023-04-12
-Diana e Eu 7.20 2023-04-11
-Salvator Mundi - A Polémica 15.05 2023-04-11
-Salvator Mundi - A Polémica 10.05 2023-04-13
-WeWork: A Criação e a Destruição de Um Unicórnio de 47 Mil Milhões de Dólares 16.45 2023-04-11
-Uma Separação 20.00 2023-04-11
-Uma Separação 6.20 2023-04-13
-Lírio Branco 22.00 2023-04-11
-Sapatos Pretos 23.20 2023-04-11
-Sapatos Pretos 4.40 2023-04-13
-Camões 11.10 2023-04-12
-La Playa de los Enchaquirados 13.00 2023-04-12
-Truman & Tennessee: An Intimate Conversation 14.25 2023-04-12
-O Último Imperador 19.20 2023-04-12
-Gymnopédies Escaldantes 22.00 2023-04-12
-Amor de Perdição (1943) 23.20 2023-04-12
-Fruto do Vosso Ventre 4.20 2023-04-13
-O Rei das Berlengas 11.45 2023-04-13
-Magic In The Mountains 13.40 2023-04-13
-Barreira do Medo 18.20 2023-04-13
-A Senhora De Karuizawa 22.00 2023-04-13
-O Último Tango Em Paris 23.35 2023-04-13
-Chicago P.D. 21.25 2023-04-06
-Chicago P.D. 4.20 2023-04-10
-Chicago P.D. 22.10 2023-04-06
-Chicago P.D. 5.05 2023-04-10
-Chicago P.D. 21.25 2023-04-13
-Chicago P.D. 22.10 2023-04-13
-Domina 22.10 2023-04-10
-Domina 6.20 2023-04-11
-Señorita 89 18.35 2023-04-13
-Señorita 89 4.25 2023-04-06
-Señorita 89 19.15 2023-04-06
-Señorita 89 3.35 2023-04-10
-Señorita 89 21.30 2023-04-10
-Señorita 89 5.40 2023-04-11
-Señorita 89 19.10 2023-04-10
-Señorita 89 3.40 2023-04-11
-Señorita 89 19.10 2023-04-11
-Señorita 89 3.45 2023-04-12
-Señorita 89 18.40 2023-04-12
-Señorita 89 4.10 2023-04-13
-Chicago Med 21.25 2023-04-11
-Chicago Med 4.35 2023-04-12
-Chicago Med 22.10 2023-04-11
-Chicago Med 5.20 2023-04-12
-Guilty Party 3.20 2023-04-06
-Guilty Party 17.30 2023-04-13
-Guilty Party 3.55 2023-04-06
-Guilty Party 18.00 2023-04-13
-Guilty Party 18.10 2023-04-06
-Guilty Party 2.30 2023-04-10
-Guilty Party 18.40 2023-04-06
-Guilty Party 3.00 2023-04-10
-Guilty Party 18.00 2023-04-10
-Guilty Party 4.30 2023-04-11
-Guilty Party 18.35 2023-04-10
-Guilty Party 5.05 2023-04-11
-Guilty Party 18.05 2023-04-11
-Guilty Party 2.40 2023-04-12
-Guilty Party 18.40 2023-04-11
-Guilty Party 3.15 2023-04-12
-Guilty Party 17.30 2023-04-12
-Guilty Party 3.00 2023-04-13
-Guilty Party 18.05 2023-04-12
-Guilty Party 3.35 2023-04-13
-Chicago Fire 5.10 2023-04-06
-Chicago Fire 5.55 2023-04-06
-Chicago Fire 21.25 2023-04-12
-Chicago Fire 5.05 2023-04-13
-Chicago Fire 22.10 2023-04-12
-Chicago Fire 5.50 2023-04-13
-Mamã Ou Papá 20.00 2023-04-10
-Voo Para A Liberdade 22.55 2023-04-13
-Fantasias 22.55 2023-04-06
-Manchester by the Sea 23.20 2023-04-07
-A Felicidade De Uns… 15.30 2023-04-09
-Uma Família de Doidos 14.55 2023-04-10
-V.C. Andrews´ All that Glitters 23.05 2023-04-10
-Missão: Galáxia (VP) 11.15 2023-04-11
-V.C. Andrews´ Pearl in the Mist 16.40 2023-04-11
-Colette 19.35 2023-04-12
-Eu, Tonya 15.30 2023-04-12
 V.C. Andrews´ Hidden Jewel 12.05 2023-04-08
 Diana e Eu 20.10 2023-04-08
-Três Pais-Galinha 19.55 2023-04-06
-Três Pais-Galinha 1.00 2023-04-10
-All Square - Apostas em Jogo 2.40 2023-04-07
 Recomeçar 17.05 2023-04-08
-Recomeçar 10.45 2023-04-12
-Turuleca - A Grande Aventura (VP) 8.10 2023-04-06
-Quebra Corações 9.30 2023-04-06
-Um Noivado Planeado 6.40 2023-04-06
-Mandela: Longo Caminho Para a Liberdade 10.55 2023-04-06
-A Troca 22.55 2023-04-12
-Afinal É Um Conto De Fadas 4.20 2023-04-07
-Grace de Mónaco 5.30 2023-04-07
-V.C. Andrews´ Ruby 7.10 2023-04-07
 Os Fantasmas de Ismael 13.30 2023-04-08
-O Arco Mágico (VP) 8.45 2023-04-07
-A Odisseia dos Tontos 12.15 2023-04-09
 Moonlight 4.40 2023-04-08
-Um Pai à Maneira 10.45 2023-04-09
 Nove Dias 6.30 2023-04-08
-Uma Cura de Natal 14.05 2023-04-09
 A Princesa Da Rua 1.35 2023-04-08
-Um Jogador De Sonho 9.20 2023-04-11
-Silêncio 0.45 2023-04-06
-Silêncio 6.45 2023-04-09
-O Discurso 13.20 2023-04-06
-O Discurso 1.35 2023-04-09
-Ensurdecedor 14.45 2023-04-06
-Ensurdecedor 3.00 2023-04-09
-Mas Que Avô É Este?! 16.30 2023-04-06
 Mas Que Avô É Este?! 3.00 2023-04-08
-O Caso Spotlight 0.35 2023-04-07
-O Caso Spotlight 5.50 2023-04-10
-Trumbo (2015) 10.10 2023-04-07
-Trumbo (2015) 4.45 2023-04-09
-Um Triunfo 12.15 2023-04-07
-Um Triunfo 1.55 2023-04-11
-Amor e Limonada! 14.00 2023-04-07
-Amor e Limonada! 8.05 2023-04-13
-O Jogo da Imitação 15.25 2023-04-07
-O Jogo da Imitação 9.30 2023-04-10
-Ilusões Perdidas 17.15 2023-04-07
-Ilusões Perdidas 12.35 2023-04-11
-Baywatch: Marés Vivas (Versão Alargada) 19.45 2023-04-07
 Baywatch: Marés Vivas (Versão Alargada) 10.05 2023-04-08
-Aquele Estranho Momento 21.45 2023-04-07
 Rock Dog 2 - Há Festa No Parque (VP) 8.35 2023-04-08
-Rock Dog 2 - Há Festa No Parque (VP) 9.10 2023-04-12
 As Fantásticas Aventuras De Spirou E Fantasio 15.40 2023-04-08
-As Fantásticas Aventuras De Spirou E Fantasio 9.30 2023-04-13
 O Principe e Eu - Aventura Tropical 18.40 2023-04-08
-O Principe e Eu - Aventura Tropical 7.35 2023-04-12
 Footloose - A Música Está Do Teu Lado 21.45 2023-04-08
-Footloose - A Música Está Do Teu Lado 11.25 2023-04-10
 Despertares 23.35 2023-04-08
-Despertares 7.15 2023-04-11
-Marmaduke (2022) (VP) 9.20 2023-04-09
-Amor em Direto, na Rádio 17.10 2023-04-09
-Amor em Direto, na Rádio 6.35 2023-04-13
-Uma Paixão de Natal 18.40 2023-04-09
-Uma Paixão de Natal 8.00 2023-04-10
-O Acontecimento 20.05 2023-04-09
-Que A Festa Comece! 21.45 2023-04-09
-Amor A Três 23.25 2023-04-09
-Amor A Três 12.25 2023-04-13
-A Fantástica Viagem De Margot E Marguerite 13.20 2023-04-10
-A Subscrição do Amor 16.25 2023-04-10
-Marcha Nupcial 4: Caminho Para a Felicidade 0.30 2023-04-11
-Marcha Nupcial 4: Caminho Para a Felicidade 6.05 2023-04-12
-#EstouAqui 15.05 2023-04-11
-Marcha Nupcial 3: Aí Vem a Noiva 20.00 2023-04-11
-Junior 22.55 2023-04-11
-O Clube De Dallas 0.45 2023-04-12
-Um Natal para Recordar 12.25 2023-04-12
-A Nossa Versão do Amor 13.55 2023-04-12
-As Sufragistas 1.15 2023-04-13
-Velozes & Traquinas: A Grande Corrida na Neve (VP) 10.55 2023-04-13
-Amor de Improviso 14.00 2023-04-13
-Um Desejo de Natal 16.00 2023-04-13
-As Horas 19.30 2023-04-13
-Fbi: Most Wanted 6.15 2023-04-07
-O Meu Ano Com Salinger 18.15 2023-04-10
-O Meu Ano Com Salinger 8.35 2023-04-13
-A Colónia 10.10 2023-04-06
-Caça-Fantasmas: O Legado 11.50 2023-04-06
-O Livro do Amor 16.10 2023-04-06
-Crepúsculo (2021) 10.30 2023-04-07
-Marry Me - Fica Comigo 11.50 2023-04-07
-Ao Ritmo De Washington Heights 13.50 2023-04-06
 Mainstream 4.25 2023-04-08
-Os Irmãos Bloom 1.25 2023-04-06
-Vampiros Do Inferno 3.15 2023-04-06
-Um Filme em Forma de Assim 4.45 2023-04-06
-Voo Para A Liberdade 6.30 2023-04-06
-Boss Baby: Negócios De Família (VP) 8.25 2023-04-06
-Irregular 17.55 2023-04-06
 Irregular 9.20 2023-04-08
-Uncharted 19.35 2023-04-06
 Uncharted 11.00 2023-04-08
-Herói Em 30 Dias 21.30 2023-04-06
-Herói Em 30 Dias 6.55 2023-04-07
-Caixa Negra 23.00 2023-04-06
-Caixa Negra 8.25 2023-04-07
-Instinto (2019) 1.05 2023-04-07
-Em Guerra 2.40 2023-04-07
-Cá Por Casa Tudo Bem 4.30 2023-04-07
-Sonho Olímpico 13.45 2023-04-07
-Sonho Olímpico 6.35 2023-04-09
-Adeus Senhor Haffmann 15.05 2023-04-07
 Adeus Senhor Haffmann 6.00 2023-04-08
-A Leste Das Montanhas 17.00 2023-04-07
 A Leste Das Montanhas 7.55 2023-04-08
-Contragolpe 18.25 2023-04-07
-Contragolpe 9.35 2023-04-09
-Perigoso 19.55 2023-04-07
-Perigoso 11.05 2023-04-09
-Bullet Train: Comboio Bala 21.30 2023-04-07
-Gasoline Alley: Investigação Explosiva 23.40 2023-04-07
 Assassino Americano 1.15 2023-04-08
 O Maior Espião Do Mundo 2.55 2023-04-08
 Belle (2021) (VO) 12.55 2023-04-08
-Belle (2021) (VO) 9.55 2023-04-11
 Mistério Em Saint-Tropez 14.55 2023-04-08
-Mistério Em Saint-Tropez 10.05 2023-04-10
 Descarrilados 16.25 2023-04-08
-Descarrilados 11.35 2023-04-10
 Uma Doce Revolução 18.05 2023-04-08
-Uma Doce Revolução 13.15 2023-04-10
 Uma Mulher Do Outro Mundo 19.50 2023-04-08
-Uma Mulher Do Outro Mundo 7.55 2023-04-09
 O Exorcismo De Deus 21.30 2023-04-08
-O Exorcismo De Deus 15.00 2023-04-10
 Geração Esquecida 23.10 2023-04-08
-Geração Esquecida 16.40 2023-04-10
-A Dívida 0.45 2023-04-09
-The Trick 2.05 2023-04-09
-Drive My Car 3.40 2023-04-09
-Um Punhado De Ar 12.40 2023-04-09
-Um Punhado De Ar 8.55 2023-04-12
-Operação Secreta 14.25 2023-04-09
-Operação Secreta 10.40 2023-04-12
-Agentes Vanguard 16.30 2023-04-09
-Agentes Vanguard 12.45 2023-04-12
-7 Balas 18.10 2023-04-09
-7 Balas 11.55 2023-04-11
-Acima de Qualquer Suspeita 19.45 2023-04-09
-Acima de Qualquer Suspeita 13.35 2023-04-11
-Por Hoje, Aqui 21.30 2023-04-09
-Por Hoje, Aqui 15.20 2023-04-11
-Men 23.30 2023-04-09
-Men 14.25 2023-04-12
-Plano A 1.10 2023-04-10
-Transporter: Potência Máxima 3.00 2023-04-10
-Fantasias 4.35 2023-04-10
-Revolta 6.15 2023-04-10
-Manchester by the Sea 7.50 2023-04-10
-Que Mal Fizemos Todos a Deus? 19.55 2023-04-10
-Que Mal Fizemos Todos a Deus? 10.15 2023-04-13
-Space Jam: Uma Nova Era (VO) 21.30 2023-04-10
-O Fotógrafo de Minamata 23.25 2023-04-10
-O Fotógrafo de Minamata 16.05 2023-04-12
-Bom Ladrão 1.20 2023-04-11
-A Casa Do Mal 3.00 2023-04-11
-O Som Que Desce na Terra 4.40 2023-04-11
-Hannes 6.25 2023-04-11
-Space Jam: Uma Nova Era (VP) 8.00 2023-04-11
-Fukushima 50 17.20 2023-04-11
-Um Diário Para Jordan 19.20 2023-04-11
-Um Diário Para Jordan 11.50 2023-04-13
-Respect 21.30 2023-04-11
-Respect 14.00 2023-04-13
-O Diabo Que Conheces (2022) 23.50 2023-04-11
-A Felicidade De Uns… 1.45 2023-04-12
-Fátima 3.25 2023-04-12
-Último Momento De Clareza 6.00 2023-04-12
-Em Defesa da Terra (VP) 7.35 2023-04-12
-Um Susto De Família 2 (VP) 18.00 2023-04-12
-O Pugilista 19.40 2023-04-12
-Os Santos Mafiosos De Newark 21.30 2023-04-12
-Os Santos Mafiosos De Newark 16.20 2023-04-13
-O Jesuíta 23.30 2023-04-12
-O Rapaz Atrás da Porta 1.10 2023-04-13
-Bull 2.40 2023-04-13
-Uma Família de Doidos 4.10 2023-04-13
-Thriller, Assassino Na Noite 5.45 2023-04-13
-V.C. Andrews´ All that Glitters 7.10 2023-04-13
-Meu Filho 18.20 2023-04-13
-Deadlock: Sem Saída 19.55 2023-04-13
-Código De Silêncio 21.30 2023-04-13
-Jungleland - Terra Selvagem 23.00 2023-04-13
