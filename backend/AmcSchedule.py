@@ -20,16 +20,9 @@ class AmcSchedule():
             driver = webdriver.Chrome(options=options)
             try:
                 driver.get(link)
-                #WAIT FOR ren-schedule-items__day TO BE PRESENT
                 WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "ren-schedule-items__day")))
-
                 content=driver.page_source
-
-                
-
                 soup = BeautifulSoup(content, 'html.parser')
-
-                #YYYY-MM-DD to MM/DD/YYYY
 
                 dataNew=data.split("-")[1]+"/"+data.split("-")[2]+"/"+data.split("-")[0]
 

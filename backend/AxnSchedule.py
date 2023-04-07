@@ -8,8 +8,16 @@ class AxnSchedule():
         self.schedule={}
         self.channels=["AXN","AXN WHITE","AXN MOVIES"]
 
-    def get_channel_names(self):
+    def get_channels(self):
         return self.channels
+    
+    def convert_name(self, name):
+        if name == "axn":
+            return "AXN"
+        elif name == "axn+white":
+            return "AXN WHITE"
+        elif name == "axn+movies":
+            return "AXN MOVIES"
 
     def get_all_schedules(self,date):
         schedule={}
