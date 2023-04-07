@@ -37,6 +37,9 @@ class TVCineSchedule():
             r = requests.get(url)
             data = r.json()
 
+            if data is None:
+                return []
+
             #split by channel
             data.sort(key=lambda x: x['canal'])
 

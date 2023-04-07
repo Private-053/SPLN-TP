@@ -59,8 +59,6 @@ class FoxSchedule():
                 if dataEntry == date:
                     new_entry = {"programa": programas[i].find("h3").text, "hora": horas[i].text.replace(".",":"), "dia": dataEntry}
                     programacao.append(new_entry)
-                else:
-                    break
 
             if self.dic.get(date) is None:
                 self.dic[date] = {}

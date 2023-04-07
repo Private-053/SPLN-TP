@@ -28,6 +28,10 @@ class AmcSchedule():
 
                 scheduleDia=soup.find("div",{"class":"ren-schedule-items__day","data-day":dataNew})
 
+                if scheduleDia is None:
+                    print("Error getting schedule for channel AMC on date "+data)
+                    return []
+
                 for i in scheduleDia.find_all("article",{"class":"ren-schedule-item"}):
                     hora=i.find("div",{"class":"ren-schedule-item__time"}).text
                     nome=i.find("div",{"class":"ren-schedule-item__series-name"}).text

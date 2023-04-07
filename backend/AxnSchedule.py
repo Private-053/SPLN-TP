@@ -36,6 +36,10 @@ class AxnSchedule():
             session = requests.Session()
             r = session.post(link, data=payload)
             try:
+                if r.json()["html"] is None:
+                    print("Error getting schedule for channel "+channel+" on date "+date)
+                    return []
+                
                 html=r.json()["html"]
                 soup = BeautifulSoup(html, 'html.parser')
                 for i in soup.find_all("li",{"class":"axn-guide-list-item"}):
