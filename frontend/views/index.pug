@@ -11,10 +11,11 @@ block content
                         th Canal
                         th Programa
                         th Hora
-                    each program in data                    
-                        tr
-                            td= program.data
-                            td= program.canal
-                            td= program.canal.programa
-                            td= program.canal.hora
+                    each canal,key in programacao
+                        each programa in canal             
+                            tr
+                                td= programa.dia
+                                td= key
+                                td= programa.programa
+                                td= programa.hora
             
