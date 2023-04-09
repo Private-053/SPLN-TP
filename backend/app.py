@@ -4,6 +4,7 @@ import AxnSchedule
 import FoxSchedule
 import HollywoodSchedule
 import TVCineSchedule
+import Imdb
 from datetime import date
 import urllib.parse as parse
 
@@ -15,6 +16,7 @@ axn = AxnSchedule.AxnSchedule()
 fox = FoxSchedule.FoxSchedule()
 hollywood = HollywoodSchedule.HollywoodSchedule()
 tvcine = TVCineSchedule.TVCineSchedule()
+imdb = Imdb.MyIMDB()
 
 @app.route('/')
 def index():
@@ -24,11 +26,11 @@ def index():
     if dia is None:
         dia=date.today().strftime("%Y-%m-%d")
 
-    schedule.update(axn.get_all_schedules(dia))
-    schedule["amc"]=amc.get_schedule(dia)
-    schedule.update(fox.get_all_schedules(dia))
+    #schedule.update(axn.get_all_schedules(dia))
+    #schedule["amc"]=amc.get_schedule(dia)
+    #schedule.update(fox.get_all_schedules(dia))
     schedule["hollywood"]=hollywood.get_schedule(dia)
-    schedule.update(tvcine.get_all_schedules(dia))
+    #schedule.update(tvcine.get_all_schedules(dia))
 
     return jsonify(schedule)
 
@@ -52,6 +54,11 @@ def get_channel(channel):
         schedule=tvcine.get_schedule(dia,tvcine.convert_name(channel))
 
     return jsonify(schedule)
+
+@app.route('/rating/<titulo>')
+def get_titulo(titulo):
+    rating = imdb.getRatting(titulo)
+    return jsonify(rating)
 
 
 if __name__ == '__main__':

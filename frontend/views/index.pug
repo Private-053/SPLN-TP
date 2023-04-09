@@ -11,6 +11,7 @@ block content
                         th Canal
                         th Programa
                         th Hora
+                        th Rating
                     each canal,key in programacao
                         each programa in canal             
                             tr
@@ -18,4 +19,6 @@ block content
                                 td= key
                                 td= programa.programa
                                 td= programa.hora
+                                td
+                                    a(href="/rating/" + programa.programa)= "[*]"
             
