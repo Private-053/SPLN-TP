@@ -32,7 +32,17 @@ def index():
     schedule["hollywood"]=hollywood.get_schedule(dia)
     schedule.update(tvcine.get_all_schedules(dia))
 
-    return jsonify(schedule)
+    scheduleNew=[]
+
+    for key in schedule:
+        for entry in schedule[key]:
+            entry["canal"]=key
+            scheduleNew.append(entry)
+
+    #Sort by hora
+    scheduleNew.sort(key=lambda x: x["hora"])
+
+    return jsonify(scheduleNew)
 
 @app.route('/canal/<channel>')
 def get_channel(channel):
@@ -53,12 +63,14 @@ def get_channel(channel):
     elif channel in [parse.quote_plus(entry.lower()) for entry in tvcine.get_channels()]:
         schedule=tvcine.get_schedule(dia,tvcine.convert_name(channel))
 
+    schedule.sort(key=lambda x: x["hora"])
+
     return jsonify(schedule)
 
 @app.route('/rating/<titulo>')
 def get_titulo(titulo):
     rating = imdb.getRatting(titulo)
-    return jsonify(rating)
+    return rating
 
 
 if __name__ == '__main__':

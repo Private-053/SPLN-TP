@@ -1,24 +1,47 @@
 extends layout
 
 block content
-            .w3-card-4
-                header.w3-container.w3-teal
-                    h1 Programação Canais de Filmes e Séries
-            .w3-container.w3-padding
-                table.w3-table-all
-                    tr
-                        th Dia
-                        th Canal
-                        th Programa
-                        th Hora
-                        th Rating
-                    each canal,key in programacao
-                        each programa in canal             
-                            tr
-                                td= programa.dia
-                                td= key
-                                td= programa.programa
-                                td= programa.hora
-                                td
-                                    a(href="/rating/" + programa.programa)= "[*]"
+    .w3-card-4
+        header.w3-container.w3-teal
+            h1 Programação Canais de Filmes e Séries
+    .w3-container.w3-padding
+        table.w3-table-all
+            tr
+                th Dia
+                th Canal
+                th Programa
+                th Hora
+                th Rating
+            each programa in programacao
+                tr
+                    td= programa.dia
+                    td= programa.canal
+                    td= programa.programa
+                    td= programa.hora
+                    td
+                        a(href="javascript:rating('"+programa.programa+"')") Rating
+    
+    script(type="text/javascript").
+        function rating(programa) {
+            var xmlHttp = new XMLHttpRequest();
+            xmlHttp.open( "GET", "/rating/"+programa, false ); // false for synchronous request
+
+            xmlHttp.onload = function (e) {
+                if (xmlHttp.readyState === 4) {
+                    if (xmlHttp.status === 200) {
+                        text=xmlHttp.responseText;
+                        var rating = text.match(/<h1>(.*)<\/h1>/)[1];
+                        alert("Rating: "+rating);
+                    } else {
+                        console.error(xmlHttp.statusText);
+                    }
+                }
+            };
+            xmlHttp.onerror = function (e) {
+                console.error(xmlHttp.statusText);
+            };
+            xmlHttp.send( null );
+        }
+        
+                  
             
