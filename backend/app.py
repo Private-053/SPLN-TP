@@ -26,11 +26,11 @@ def index():
     if dia is None:
         dia=date.today().strftime("%Y-%m-%d")
 
-    #schedule.update(axn.get_all_schedules(dia))
-    #schedule["amc"]=amc.get_schedule(dia)
-    #schedule.update(fox.get_all_schedules(dia))
+    schedule.update(axn.get_all_schedules(dia))
+    schedule["amc"]=amc.get_schedule(dia)
+    schedule.update(fox.get_all_schedules(dia))
     schedule["hollywood"]=hollywood.get_schedule(dia)
-    #schedule.update(tvcine.get_all_schedules(dia))
+    schedule.update(tvcine.get_all_schedules(dia))
 
     return jsonify(schedule)
 
