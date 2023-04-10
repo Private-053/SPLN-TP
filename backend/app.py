@@ -54,14 +54,14 @@ def get_channel(channel):
 
     if channel == "amc":
         schedule=amc.get_schedule(dia)
-    elif channel in [parse.quote_plus(entry.lower()) for entry in axn.get_channels()]:
-        schedule=axn.get_schedule(dia,axn.convert_name(channel))
-    elif channel in [parse.quote_plus(entry.lower().replace("-","+")) for entry in fox.get_channels()]:
-        schedule=fox.get_schedule(dia,fox.convert_name(channel))
+    elif channel in axn.get_channels():
+        schedule=axn.get_schedule(dia,channel)
+    elif channel in fox.get_channels():
+        schedule=fox.get_schedule(dia,channel)
     elif channel == "hollywood":
         schedule=hollywood.get_schedule(dia)
-    elif channel in [parse.quote_plus(entry.lower()) for entry in tvcine.get_channels()]:
-        schedule=tvcine.get_schedule(dia,tvcine.convert_name(channel))
+    elif channel in tvcine.get_channels():
+        schedule=tvcine.get_schedule(dia,channel)
 
     schedule.sort(key=lambda x: x["hora"])
 

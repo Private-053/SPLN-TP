@@ -10,16 +10,6 @@ class TVCineSchedule():
 
     def get_channels(self):
         return self.channels
-    
-    def convert_name(self, name):
-        if name == "tvc+top":
-            return "TVC Top"
-        elif name == "tvc+emotion":
-            return "TVC Emotion"
-        elif name == "tvc+edition":
-            return "TVC Edition"
-        elif name == "tvc+action":
-            return "TVC Action"
 
     def get_all_schedules(self, date):
         if self.dic.get(date) is None:

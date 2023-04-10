@@ -13,20 +13,6 @@ class FoxSchedule():
     def get_channels(self):
         return self.channels
     
-    def convert_name(self, name):
-        if name == "foxcomedy":
-            return "foxcomedy"
-        elif name == "fox+crime":
-            return "fox-crime"
-        elif name == "fox+life":
-            return "foxlife"
-        elif name == "fox+movies":
-            return "fox-movies"
-        elif name == "mundo+fox":
-            return "mundo-fox"
-        elif name == "foxtv":
-            return "foxtv"
-    
     def get_all_schedules(self, date):
         if self.dic.get(date) is None:
             self.dic[date] = {}

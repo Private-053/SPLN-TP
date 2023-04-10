@@ -1,6 +1,10 @@
 extends layout
 
 block content
+    - var titleCase = function (str) {
+    -    return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+    - };
+
     .w3-card-4
         header.w3-container.w3-teal
             h1 Programação Canais de Filmes e Séries
@@ -16,7 +20,7 @@ block content
                 tr
                     td= programa.dia
                     td
-                        a(href="/canal/"+programa.canal) #{programa.canal}
+                        a(href="/canal/"+programa.canal) #{titleCase(programa.canal.split("-").join(" "))}
                     td= programa.programa
                     td= programa.hora
                     td
