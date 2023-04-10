@@ -43,7 +43,7 @@ class AxnSchedule():
                 html=r.json()["html"]
                 soup = BeautifulSoup(html, 'html.parser')
                 for i in soup.find_all("li",{"class":"axn-guide-list-item"}):
-                    hora=i.find("span",{"class":"hour"}).text
+                    hora=i.find("span",{"class":"hour"}).text[-5:]
                     nome=i.find("div",{"class":"content"}).find("h2",{"class":"title"}).text
                     new_entry = {"programa":nome,"hora":hora,"dia":date}
                     programacao.append(new_entry)

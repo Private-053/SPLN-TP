@@ -33,7 +33,7 @@ class AmcSchedule():
                     return []
 
                 for i in scheduleDia.find_all("article",{"class":"ren-schedule-item"}):
-                    hora=i.find("div",{"class":"ren-schedule-item__time"}).text
+                    hora=i.find("div",{"class":"ren-schedule-item__time"}).text[-5:]
                     nome=i.find("div",{"class":"ren-schedule-item__series-name"}).text
                     new_entry = {"programa":nome,"hora":hora,"dia":data}
                     programacao.append(new_entry)

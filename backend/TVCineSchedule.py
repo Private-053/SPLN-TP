@@ -44,12 +44,15 @@ class TVCineSchedule():
             data.sort(key=lambda x: x['canal'])
 
             #get channel
-            for i in range(len(data)):
-                for e in data[i]['emissoes']:
-                    new_entry = {"programa":e['tituloPT'], "hora": e['horaEmissao'].replace("h",":"), "dia": e['dataEmissao'].split("T")[0]}
-                    tvcine.append(new_entry)
-                    if self.dic.get(date) is None:
-                        self.dic[date] = {}
-                    self.dic[date][data[i]['canal']] = tvcine
+            for canalDict in data:
+                if canalDict['canal'] == channel:
+                    for e in canalDict['emissoes']:
+                        hora=e['horaEmissao'].replace("h",":")[-5:]
+                        if len(hora) == 4:
+                            hora = "0" + hora
+                        new_entry = {"programa":e['tituloPT'], "hora": hora, "dia": e['dataEmissao'].split("T")[0]}
+                        tvcine.append(new_entry)
+                        if self.dic.get(date) is None:
+                            self.dic[date] = {}
+                        self.dic[date][channel] = tvcine
         return self.dic[date][channel]
-

@@ -14,7 +14,7 @@ class FoxSchedule():
         return self.channels
     
     def convert_name(self, name):
-        if name == "fox+comedy":
+        if name == "foxcomedy":
             return "foxcomedy"
         elif name == "fox+crime":
             return "fox-crime"
@@ -24,7 +24,7 @@ class FoxSchedule():
             return "fox-movies"
         elif name == "mundo+fox":
             return "mundo-fox"
-        elif name == "fox+tv":
+        elif name == "foxtv":
             return "foxtv"
     
     def get_all_schedules(self, date):
@@ -57,7 +57,7 @@ class FoxSchedule():
             for i in range(len(programas)):
                 dataEntry=dias[i].get("data-datetime-date")
                 if dataEntry == date:
-                    new_entry = {"programa": programas[i].find("h3").text, "hora": horas[i].text.replace(".",":"), "dia": dataEntry}
+                    new_entry = {"programa": programas[i].find("h3").text, "hora": horas[i].text.replace(".",":")[-5:], "dia": dataEntry}
                     programacao.append(new_entry)
 
             if self.dic.get(date) is None:

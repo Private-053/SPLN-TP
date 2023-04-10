@@ -27,4 +27,16 @@ router.get('/rating/:titulo', function(req, res, next) {
     })
 });
 
+router.get('/canal/:canal', function(req, res, next) {
+  axios.get('http://localhost:5000/canal/' + req.params.canal)
+    .then(response => {
+      dados = response.data;
+      res.render('canal', {canal: dados, nome: req.params.canal }); 
+    })
+    .catch(function (error) {
+      console.log(error);
+      res.render('error',{error: error})
+    })
+});
+
 module.exports = router;

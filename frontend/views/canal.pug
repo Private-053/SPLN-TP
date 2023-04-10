@@ -3,24 +3,26 @@ extends layout
 block content
     .w3-card-4
         header.w3-container.w3-teal
-            h1 Programação Canais de Filmes e Séries
+            h1 Programação de #{nome}
     .w3-container.w3-padding
         table.w3-table-all(class="sortable")
             tr
                 th Dia
-                th Canal
                 th Programa
                 th Hora
                 th(class="sorttable_nosort") Rating
-            each programa in programacao
-                tr
+
+            each programa in canal 
+                tr 
                     td= programa.dia
-                    td
-                        a(href="/canal/"+programa.canal) #{programa.canal}
                     td= programa.programa
                     td= programa.hora
                     td
                         a(href="javascript:rating('"+programa.programa+"')") Rating
+    
+    footer.w3-container.w3-teal
+            a(href="/") Return
+
 
     script(type="text/javascript").
         function rating(programa) {
@@ -42,8 +44,5 @@ block content
                 console.error(xmlHttp.statusText);
             };
             xmlHttp.send( null );
-        };
+        }
     script(src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js")
-        
-                  
-            
