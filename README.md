@@ -8,7 +8,8 @@
  
 - Frontend
   app.js - Aplicação principal do frontend da aplicação
-  npm start app.js
+  npm install &&
+  npm start
 
 # Dependências
 
